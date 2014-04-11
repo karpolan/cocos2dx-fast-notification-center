@@ -1,3 +1,6 @@
+
+FastNotificationCenter
+
 Faster analog to cocos2d::CCNotificationCenter with notification by numeric codes
 
 Changes:
